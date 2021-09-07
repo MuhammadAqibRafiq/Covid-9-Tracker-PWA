@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    justify-content: center;
+    width: 580px;
+}
+
+@media only screen and (max-width: 590px) {
+    .container{
+        width: 480px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .container{
+        width: 380px;
+    }
+}
+
+@media only screen and (max-width: 380px) {
+    .container{
+        width: 280px;
+    }
+}
