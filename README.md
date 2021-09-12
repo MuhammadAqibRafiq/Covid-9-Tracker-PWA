@@ -6,11 +6,11 @@
 
 ## 🚀 Quick Review
 
-Quiz app is Progressive Web App (PWA).
+COVID19 app is Progressive Web App (PWA).
  
-<!-- DEMO : https://www.youtube.com/watch?v=iKydTwHxGDI
+<!--  DEMO : https://www.youtube.com/watch?v=iKydTwHxGDI -->
  
-LIVE LINK : https://pwa-quiz.netlify.app/ -->
+LIVE LINK : https://pwa-covid-19.netlify.app/
 
 <p align="center">
 </p>
