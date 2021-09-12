@@ -38,5 +38,13 @@ LIVE LINK : https://pwa-covid-19.netlify.app/
     - REACT JS
     
     - REACT BOOTSTRAP
+    
+    - FONTAWESOME
+    
+    - MATERIAL UI
+    
+    - AXIOS
+    
+    - REACT CHART JS
 
 
