@@ -19,16 +19,21 @@ LIVE LINK : https://pwa-covid-19.netlify.app/
 </h1>
 
 <h1>DESKTOP</h1>
+
+ <img src="https://github.com/MuhammadAqibRafiq/Covid19-Tracker-PWA/blob/main/static/PWA.png" width="1000" />
+ </h1>
+ 
+<h1>DESKTOP</h1>
  
  <img src="https://github.com/MuhammadAqibRafiq/Covid19-Tracker-PWA/blob/main/static/desktop.png" width="1000" />
-  
-   
 
+ 
 <h1>MOBILE</h1>
  <h1 align="center">
     <img src="https://github.com/MuhammadAqibRafiq/Covid19-Tracker-PWA/blob/main/static/mobile.png" width="450"  height="650" />
       </h1>
- 
+
+
 4.  **USED TECH**
 
     - NETLIFY 
