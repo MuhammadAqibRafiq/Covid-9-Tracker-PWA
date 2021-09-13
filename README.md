@@ -20,15 +20,15 @@ LIVE LINK : https://pwa-covid-19.netlify.app/
 
 <h1>DESKTOP</h1>
   
-<!--    <img src="https://github.com/MuhammadAqibRafiq/Virtuall-Lolly-Jamstack/blob/main/static/desktop2.png" width="1000" />
+    <img src="https://github.com/MuhammadAqibRafiq/Covid19-Tracker-PWA/blob/main/static/desktop.png" width="1000" />
    
-   <img src="https://github.com/MuhammadAqibRafiq/Virtuall-Lolly-Jamstack/blob/main/static/desktop1.png" width="1000" /> -->
+
    
 
 <h1>MOBILE</h1>
 
-<!--    <img src="https://github.com/MuhammadAqibRafiq/Virtuall-Lolly-Jamstack/blob/main/static/mobile.jpeg" width="300"  height="650" />
- -->
+    <img src="https://github.com/MuhammadAqibRafiq/Covid19-Tracker-PWA/blob/main/static/mobile.png" width="300"  height="650" />
+ 
 4.  **USED TECH**
 
     - NETLIFY 
